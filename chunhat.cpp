@@ -6,5 +6,5 @@ int ChuNhat::tinh_dientich()
 
 int ChuNhat::tinh_chuvi()
 {
-	return (dai + rong) * 2;
+	return (dai + rong);
 }
